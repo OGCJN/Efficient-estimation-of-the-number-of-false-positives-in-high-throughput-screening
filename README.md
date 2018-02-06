@@ -6,7 +6,7 @@ This paper develops new methods to handle false positives in High-Throughput Scr
 ## Supplementary materials
 [**Main ﬁle**](https://github.com/OGCJN/Efficient-estimation-of-the-number-of-false-positives-in-high-throughput-screening/blob/master/Supplementary%20Materials/Efficient-estimation-of-the-number-of-false-positives-in-high-throughput-screening-[Supplementary-Materials].pdf) contains introduction to the SmartTail software; proofs of Theorems 1, 2, and 3 in the paper; derivation of equation (10); additional results and discussion for dependent p-values; sandwich estimators for dependent p-values; additional plots for the yeast genome and salt stress screening data; and two additional examples: association mapping in Arabidopsis Thaliana and a fMRI brain scan experiment; MATLAB scripts to simulate from the tail mixture model, and to compute the maximum likelihood estimates of the parameters of the mixture model (8) for the cases (i)-(iii) described in the paper.
 
-[**SmartTail**](https://github.com/OGCJN/Tail-estimation-for-window-censored-processes/blob/master/Supplementary%20Materials) - software for the analysis of false discovery rates in high-throughput-screening experiments. 
+[**SmartTail**](http://smarttail.se) - software for the analysis of false discovery rates in high-throughput-screening experiments. 
 
 ## Reference
 Rootzen, H. and Zholud, D. (2015). [**Efficient estimation of the number of false positives in high-throughput screening**](http://www.zholud.com/articles/Efficient-estimation-of-the-number-of-false-positives-in-high-throughput-screening.pdf), *Biometrika*, Vol. 102, No. 3, pp. 695-704.
