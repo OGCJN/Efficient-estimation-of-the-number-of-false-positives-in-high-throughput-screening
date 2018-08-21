@@ -9,7 +9,7 @@ This paper develops new methods to handle false positives in High-Throughput Scr
 [**SmartTail**](http://smarttail.se) - software for the analysis of false discovery rates in high-throughput-screening experiments. 
 
 ## Reference
-Rootzen, H. and Zholud, D. (2015). [**Efficient estimation of the number of false positives in high-throughput screening**](http://www.zholud.com/articles/Efficient-estimation-of-the-number-of-false-positives-in-high-throughput-screening.pdf), *Biometrika*, Vol. 102, No. 3, pp. 695-704.
+Rootzén, H. and Zholud, D. (2015). [**Efficient estimation of the number of false positives in high-throughput screening**](http://www.zholud.com/articles/Efficient-estimation-of-the-number-of-false-positives-in-high-throughput-screening.pdf), *Biometrika*, Vol. 102, No. 3, pp. 695-704.
 
 ## BiBTeX
 
